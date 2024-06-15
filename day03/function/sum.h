@@ -1,0 +1,1 @@
+int sumof (int n1, int n2, int n3);
